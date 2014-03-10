@@ -1,0 +1,21 @@
+{
+    "name": "booleanlogic/jsonrpcclient",
+    "description": "composer jsonrpclient",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "booleanlogic",
+            "email": "camokatinlove@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Booleanlogic\\JsonRPCClient": "src/"
+        }
+    }
+
+}
